@@ -1,0 +1,8 @@
+__pycache__/
+config.encrypted
+*.json
+*.log
+*.wav
+session.session
+*.png
+chromedriver-linux64/
